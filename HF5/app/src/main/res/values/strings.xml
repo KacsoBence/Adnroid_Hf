@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Labor5</string>
+
+    <string-array name="fruitList">
+        <item>Melon</item>
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>Raspberry</item>
+        <item>Strawberry</item>
+    </string-array>
+
+</resources>
